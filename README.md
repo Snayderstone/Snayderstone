@@ -152,3 +152,10 @@ I love working in teams 🤝, fostering leadership, and creating projects that m
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/snayderstone/snayderstone/output/snake.svg" alt="Snake animation" />
+
+###
