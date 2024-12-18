@@ -1,6 +1,6 @@
 # 💫 About Me
 Hello! I’m Luis, a technology and innovation enthusiast 🔭, always looking for creative solutions that generate a positive impact.
-I love working in teams 👯, fostering leadership, and creating projects that make a difference. 🌱 💬 My focus is on constant innovation, continuous learning, and entrepreneurship. I firmly believe in values, patience, and positivity as the foundation for achieving goals. 🤝⚡
+I love working in teams 🤝, fostering leadership, and creating projects that make a difference. 🌱 💬 My focus is on constant innovation, continuous learning, and entrepreneurship. I firmly believe in values, patience, and positivity as the foundation for achieving goals.⚡
 
 
 ## 🌐 Socials
