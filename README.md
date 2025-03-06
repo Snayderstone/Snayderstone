@@ -1,3 +1,4 @@
+
 # 💫 About Me
 Hello! I’m Luis, a technology and innovation enthusiast 🔭, always looking for creative solutions that generate a positive impact.
 I love working in teams 🤝, fostering leadership, and creating projects that make a difference. 🌱 💬 My focus is on constant innovation, continuous learning, and entrepreneurship. I firmly believe in values, patience, and positivity as the foundation for achieving goals.⚡
@@ -16,7 +17,8 @@ I love working in teams 🤝, fostering leadership, and creating projects that m
 
 ## 📋 Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+ ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+ ![Dart](https://img.shields.io/badge/Dart-%235391FE.svg?style=for-the-badge&logo=Dart&logoColor=white)
 
 
 
@@ -33,6 +35,7 @@ I love working in teams 🤝, fostering leadership, and creating projects that m
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Spline](https://img.shields.io/badge/Spline-%23f01742.svg?style=for-the-badge&logo=&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 
 ##  💾 Databases
@@ -52,6 +55,7 @@ I love working in teams 🤝, fostering leadership, and creating projects that m
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-00A95C?style=for-the-badge&logo=linode&logoColor=white)
+![ApiDog](https://img.shields.io/badge/ApiDog-%2300C4CC.svg?style=for-the-badge&logo=ApiDog&logoColor=white)
 
 ## 🎨 Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
@@ -60,8 +64,8 @@ I love working in teams 🤝, fostering leadership, and creating projects that m
 ![visual paradigm](https://img.shields.io/badge/visual_paradigm-%23f01742.svg?style=for-the-badge&logo=&logoColor=white)
 ![dbdiagram](https://img.shields.io/badge/dbdiagram-%230167ff.svg?style=for-the-badge&logo=&logoColor=white)
 ![drawsql](https://img.shields.io/badge/drawsql-000000?style=for-the-badge&logo=&logoColor=F0F0F0)
-
-
+![IcePanel](https://img.shields.io/badge/IcePanel-%2300C4CC.svg?style=for-the-badge&logo=IcePanel&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-%23FF6F00.svg?style=for-the-badge&logo=Draw.io&logoColor=white)
 
 
 ## ☁️ Hosting/SaaS
@@ -110,12 +114,16 @@ I love working in teams 🤝, fostering leadership, and creating projects that m
 ![Gamma-IA](https://img.shields.io/badge/Gamma_IA-%23f01742.svg?style=for-the-badge&logo=&logoColor=white)
 ![Luma-IA](https://img.shields.io/badge/Luma_IA-00B2FF?style=for-the-badge&logo=&logoColor=white)
 ![GALILEO AI](https://img.shields.io/badge/GALILEO_AI-%23000000.svg?style=for-the-badge&logo=&logoColor=white)
-
+![DeepSeek](https://img.shields.io/badge/DeepSeek-%23430098.svg?style=for-the-badge&logo=DeepSeek&logoColor=white)
 
 
 ## 🏢 Office
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=for-the-badge&logo=Microsoft-Project&logoColor=white)
+![One Note](https://img.shields.io/badge/One_Note-A435F0?style=for-the-badge&logo=One-Note&logoColor=white)
+![Only Office](https://img.shields.io/badge/Only_Office-00B2FF?style=for-the-badge&logo=&logoColor=white)
+![Project Libre](https://img.shields.io/badge/Project_Libre-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
 ## 🎓 Education
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
